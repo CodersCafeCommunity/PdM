@@ -1,3 +1,4 @@
+#Developed by Shebin Jose Jacob
 #program to read magnetic field from motor
 import uuid
 from firebase import firebase
